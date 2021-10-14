@@ -2,5 +2,7 @@ hola
 hola 2
 hola prueba 3
 hola rama numero 2
-se hizo merge local de rama 2 y main->luego merge del navegador-->luego delete local--> luego git push origin --delete rama2 :()
+se hizo merge local de rama 2 y main->luego merge del navegador-->luego delete local--> luego git push origin --delete 
+rama2 :()
+gitttttttt
 
